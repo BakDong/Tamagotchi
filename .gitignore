@@ -1,0 +1,27 @@
+proj.blackberry
+proj.linux
+proj.mac
+proj.marmalade
+proj.tizen
+proj.win32
+proj.winrt
+proj.winrt
+proj.wp8
+
+
+# android
+proj.android/bin
+proj.android/gen
+proj.android/libs
+proj.android/obj
+proj.android/assets
+
+# xcode
+proj.ios/build/*
+*.pbxuser
+*.modelv3
+xcuserdata/
+
+# osx
+.DS_Store
+profile
