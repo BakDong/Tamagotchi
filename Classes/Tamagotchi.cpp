@@ -5,6 +5,7 @@
 //  Created by Bak on 2014. 2. 27..
 //
 //
+//
 
 #include "Tamagotchi.h"
 
